@@ -252,6 +252,9 @@ CCTV-央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/322122750
 中国教育-3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 中国教育-4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 中国教育-1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
+航拍中国,#genre#
+航拍中国第一季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 咪咕,#genre#
 咪咕视频01,http://39.134.60.194/PLTV/88888888/224/3221226899/index.m3u8
 咪咕视频01,http://39.134.60.195/PLTV/88888888/224/3221226899/index.m3u8
